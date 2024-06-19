@@ -1,0 +1,61 @@
+body {
+    background-color: AntiqueWhite;
+    font-family: BrushScriptMT, cursive;
+}
+
+.container {
+    text-align: center;
+}
+
+.left-image {
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.right-image {
+    width: 200px;
+    height: 150px;
+    float: right;
+}
+
+.marquee-text {
+    background-color: white;
+    width: 650px;
+    color: chartreuse;
+    font-size: 64px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.creator {
+    font-size: 48px;
+    color: DeepSkyBlue;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.center-image {
+    margin-top: 60px;
+    width: 200px;
+    height: 200px;
+}
+
+.menu {
+    width: 100%;
+    height: 50%;
+    margin-top: 20px;
+    border-spacing: 10px;
+}
+
+.menu td a {
+    font-size: 48px;
+    color: OrangeRed;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.menu td a:hover {
+    color: darkred;
+}
