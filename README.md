@@ -19,7 +19,7 @@
 * Login
 * Register
 * Catalogue
-### Outcomes
+## Outcomes
 ## User Experience:
 * The website provides a clear and straightforward navigation experience with easily accessible links to the main sections.
 * The marquee text can draw attention to the site’s main purpose quickly
