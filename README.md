@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+# PRODIGY_WD_01(RESPONSIVE LANDING PAGE)
 
 ## FEATURES
 ### Header Information:
