@@ -34,6 +34,11 @@
 
 * This landing page serves as a practical example of how to build a responsive, multi-section website that is both functional and aesthetically pleasing. It is suitable for businesses looking to create a strong online presence and effectively communicate their services and values to potential clients.
 * Project link: https://github.com/jessyhema/PRODIGY_WD_01
+## Image of the webpage
+![webpage](https://github.com/jessyhema/PRODIGY_WD_01/assets/143420058/7a17860a-f0c3-49b8-ad50-69fb39116e30)
+
+
+
 
 
 
